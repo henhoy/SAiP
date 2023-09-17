@@ -7,7 +7,9 @@ To compare productivity of using CoPilot two requirements’ exercises detailing
 
 In this study we are asking you to complete two assignments, one using GitHub Copilot and one using all other aids (ie. Google, Stack Overflow) <U>except AI based tools</U>.
 
-___Insert something about the assigned development environment (Codespaces or VSCode)___
+See [Development environment](#DevEnvironment) for information about executing the assgnment.
+
+## Execution of assignments
 
 Please follow the steps below and make a "commit" when asked (this to be able to time the execution of the task)
 
@@ -38,7 +40,16 @@ __After answering the end interview make a commit with the message "End Intervie
 1. Push the repository to your GitHub account  
 _We are able to see the content of this repository, but will delete the access as soon we are finish evaluating the result._
 
-## Codespaces and Visual Studio Code
+## <a name="DevEnvironment"></a> Development environment
 
-When you start GitHub Code Spaces or Visual Studio Code, the editor will prompt you for installing some extensions. 
-These extensions are Python and GitHub Code Pilot specific and you asked to install these.
+Your options of development environment to solve these assignments is up to your preferred choice (Pycharm or others). 
+However, we have made some preparations so that you car choose either to use a local Visual Studio or using Github Codespaces (a virtual Visual Studio Code).
+
+When you start GitHub Visual Studio Code, the editor will prompt you for installing some extensions. 
+These extensions are Python and GitHub Code Pilot specific and you are asked to install these when starting the editor.
+
+### Start Github Codespaces
+
+You start the GitHub Codespace from the assigned GitHub repository by clicking on the green code button and then click the "Start codespace on master" button in the Codespaces' tab.
+
+![StartGitHubCodespace](./Attachments/GitHubCodespacesCreation.png)
