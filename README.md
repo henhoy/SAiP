@@ -52,4 +52,4 @@ These extensions are Python and GitHub Code Pilot specific and you are asked to 
 
 You start the GitHub Codespace from the assigned GitHub repository by clicking on the green code button and then click the "Start codespace on master" button in the Codespaces' tab.
 
-![StartGitHubCodespace](./Attachments/GitHubCodespacesCreation.png)
+![StartGitHubCodespace](./.Attachments/GitHubCodespacesCreation.png)
