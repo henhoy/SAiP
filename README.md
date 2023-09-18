@@ -1,13 +1,13 @@
 # GitHub Copilot Productivity Study
 
-## Welcome the study
+## Welcome to the study
 
-This study seeks to make a study of the impact of introducing CoPilot for developers.   
+This study seeks to make a study of the impact of introducing Copilot for developers.  
 To compare productivity of using Copilot two requirements’ exercises detailing a limited set of functionalities to be produced and compared.
 
 In this study we are asking you to complete two assignments, one using GitHub Copilot and one using all other aids (ie. Google, Stack Overflow) <U>except AI based tools</U>.
 
-See [Development environment](#DevEnvironment) for information about executing the assgnment.
+See [Development environment](#DevEnvironment) for information about executing the assignment.
 
 ## Execution of assignments
 
