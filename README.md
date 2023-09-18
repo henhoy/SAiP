@@ -3,7 +3,7 @@
 ## Welcome the study
 
 This study seeks to make a study of the impact of introducing CoPilot for developers.   
-To compare productivity of using CoPilot two requirements’ exercises detailing a limited set of functionalities to be produced and compared.
+To compare productivity of using Copilot two requirements’ exercises detailing a limited set of functionalities to be produced and compared.
 
 In this study we are asking you to complete two assignments, one using GitHub Copilot and one using all other aids (ie. Google, Stack Overflow) <U>except AI based tools</U>.
 
@@ -13,8 +13,6 @@ See [Development environment](#DevEnvironment) for information about executing t
 
 Please follow the steps below and make a "commit" when asked (this to be able to time the execution of the task)
 
-1. Read and answer the question in the the file _"Start Interview.md"_ in the Interviews folder.  
-__After answering the start interview make a commit with the message "Start Interview answered".__
 1. You must first complete a task <U>without using GitHub Copilot</U>
     1. Go to the folder you are tasked to solve first.
     1. Read the Assignment file (*.md)
@@ -46,10 +44,15 @@ Your options of development environment to solve these assignments is up to your
 However, we have made some preparations so that you car choose either to use a local Visual Studio or using Github Codespaces (a virtual Visual Studio Code).
 
 When you start GitHub Visual Studio Code, the editor will prompt you for installing some extensions. 
-These extensions are Python and GitHub Code Pilot specific and you are asked to install these when starting the editor.
+These extensions are Python and GitHub Code Pilot specific and you are asked to install these when starting the editor.  
+
+<img src="./.Attachments/GitHubCodespacesExtensionInstall.png" width="400" height="100">
+<img src="./.Attachments/GitHubCodespacesExtensionInstalled.png" width="200" height="220">
+
+>__Be aware that the Copilot plugin need to be enabled or disabled depending on what assignement you are on.__
 
 ### Start Github Codespaces
 
 You start the GitHub Codespace from the assigned GitHub repository by clicking on the green code button and then click the "Start codespace on master" button in the Codespaces' tab.
 
-![StartGitHubCodespace](./.Attachments/GitHubCodespacesCreation.png)
+<img src="./.Attachments/GitHubCodespacesCreation.png" width="300" height="300">
