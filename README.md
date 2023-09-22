@@ -2,33 +2,35 @@
 
 ## Welcome to the study
 
-This study seeks to make a study of the impact of introducing Copilot for developers.  
-To compare productivity of using Copilot two requirements’ exercises detailing a limited set of functionalities to be produced and compared.
+This study seeks to make a examine the impact on productivity of introducing Copilot for developers.  
+To compare productivity of using Copilot two exercises will be solved by a set of developers.
 
-In this study we are asking you to complete two assignments, one using GitHub Copilot and one using all other aids (ie. Google, Stack Overflow) <U>except AI based tools</U>.
+You are inrolled to help by solving two exervices, one using GitHub Copilot and one using all other aids (ie. Google, Stack Overflow) <U>except AI based tools</U>.
 
 See [Development environment](#DevEnvironment) for information about executing the assignment.
 
 ## Execution of assignments
 
-Please follow the steps below and make a "commit" when asked (this to be able to time the execution of the task)
+Please follow the steps below and make a "commit" when asked (this is in order to isolate certain productivity aspects)
 
 1. You must first complete a task <U>without using GitHub Copilot</U>
-    1. Go to the folder you are tasked to solve first.
+    1. Go to the folder of the task you are asked to solve first.
     1. Read the Assignment file (*.md)
-    1. Be aware that there also are sample input/output files you can use while testing.  
-    1. When the requirement is read and understood, in plain language write a small text of your understanding of the assignment in the assignment file.
-    1. __After writing your understanding of the assigment make a commit with the message "Requirement without using Copilot understanded"__
-1. Start solving the assingment    
-   1. We expect you are testing the solution with a test file, but you are free to write the test before or after you solve the problem!
+    1. Be aware that there may also be sample input/output files in the folder that you need to use while testing.  
+    1. When the exercise introduction is read and understood, write a small text in plain language of your understanding of the assignment in the assignment file (WHICH FILE IS THAT?).
+    1. __After completing the previous task make a commit with the message "Requirement without using Copilot understanded"__
+1. Start solving the exercise    
+   1. We expect you are testing the solution with a test file (WHAT DO WE MEAN BY TEST FILE?), but you are free to write the test before or after you solve the problem!
    1. While solving the problem you are free to make a commit as often you want.
    1. __After solving the assignment make a commit with the message "Assignment without using GitHub Copilot Done"__
-1. Secondly complete the next task <U>using GitHub Copilot</u>
-    1. Go to the folder you are tasked to solve next.
+
+
+1. Second exercise will be completed <U>using GitHub Copilot</u>
+    1. Go to the folder of the task you are asked to solve first.
     1. Read the Assignment file (*.md)
-    1. Be aware that there also are sample input/output files you can use while testing.  
-    1. When the requirement is read and understood, in plain language write a small text of your understanding of the assignment in the assignment file.
-    1. __After writing your understanding of the assigment make a commit with the message "Requirement using Copilot understanded"__
+    1. Be aware that there may also be sample input/output files in the folder that you need to use while testing.
+    1. When the exercise introduction is read and understood, write a small text in plain language of your understanding of the assignment in the assignment file (WHICH FILE IS THAT?).
+    1. __After completing the previous task make a commit with the message "Requirement without using Copilot understanded"__
 1. Start solving the next assingment    
    1. We expect you are testing the solution with a test file, but you are free to write the test before or after you solve the problem!
    1. While solving the problem you are free to make a commit as often you want.
@@ -40,10 +42,7 @@ _We are able to see the content of this repository, but will delete the access a
 
 ## <a name="DevEnvironment"></a> Development environment
 
-Your options of development environment to solve these assignments is up to your preferred choice (Pycharm or others). 
-However, we have made some preparations so that you car choose either to use a local Visual Studio or using Github Codespaces (a virtual Visual Studio Code).
-
-When you start GitHub Visual Studio Code, the editor will prompt you for installing some extensions. 
+When you start GitHub Visual Studio Code in Github Classroom, the editor will prompt you for installing some extensions. 
 These extensions are Python and GitHub Code Pilot specific and you are asked to install these when starting the editor.  
 
 <img src="./.Attachments/GitHubCodespacesExtensionInstall.png" width="400" height="100">
