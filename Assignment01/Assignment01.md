@@ -23,13 +23,13 @@ Your output should always contain two digits after the decimal point.
 20.1 -175
 -30.2 10
 3
-52.31, 4.76
-51.96, 4.44
-51.45, 5.37
+52.31 4.76
+51.96 4.44
+51.45 5.37
 ```
 
 ## __Sample Output 1__
 ``` text
 3.20 -15.00
-52.31, 4.76
+52.31 4.76
 ```
